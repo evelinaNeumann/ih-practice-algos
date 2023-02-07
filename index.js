@@ -18,3 +18,22 @@ function commonCharacters(string1, string2) {}
 
 // 7. Write a function that takes an object and returns a new object with all the keys and values reversed (BONUS)
 function reverseObject(object) {}
+
+/* Bonuses */
+
+// Palindrome checker: Write a program that takes in a string and returns true if the string is a palindrome (reads the same forwards and backwards).
+function palindrome(string) {}
+//Word count: Write a program that takes in a string and returns the number of words in the string.
+function wordCount(string) {}
+// Character count: Write a program that takes in a string and returns the frequency count of each character in the string.
+function characterCount(string) {}
+// Reverse string: Write a program that takes in a string and returns the string reversed.
+function reverseString(string) {}
+// Replace vowels: Write a program that takes in a string and replaces all vowels with a specified character.
+function replaceVowels(string, character) {}
+// Longest word: Write a program that takes in a string and returns the longest word in the string.
+function longestWord(string) {}
+// Text analyzer: Write a program that takes in a string and returns the number of characters, words, and sentences in the string.
+function textAnalyzer(string) {}
+// Letter change: Write a program that takes in a string and changes each letter to the next letter in the alphabet.
+function letterChange(string) {}
